@@ -1,0 +1,27 @@
+{
+  "name": "portifólio web",
+  "version": "1.0.0",
+  "description": "Projeto para a disciplina de Backend Web, o sistema será um portólio web de todos os alunos do Curso de Bacharelado em Engenharia de Sofware. Devem poder acessar esse portólio os alunos, um administrador do sistema e qualquer usuário externo.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zunkuun/Portif-lio-web-.git"
+  },
+  "keywords": [],
+  "author": "Carlos Henrique de Andrade",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zunkuun/Portif-lio-web-/issues"
+  },
+  "homepage": "https://github.com/Zunkuun/Portif-lio-web-#readme",
+  "dependencies": {
+    "express": "^5.1.0",
+    "express-handlebars": "^8.0.3",
+    "mongoose": "^8.19.1",
+    "pg": "^8.16.3",
+    "sequelize": "^6.37.7"
+  }
+}
